@@ -7,6 +7,6 @@ The code is divided with an switch-case structure, so different steps of the pro
 
 Some photos of the Revopet prototype, designed in SolidWorks:
 
-https://ibb.co/xMHQK9V
+!(https://ibb.co/xMHQK9V)
 
-https://ibb.co/xYVzgCS
+!(https://ibb.co/xYVzgCS)
